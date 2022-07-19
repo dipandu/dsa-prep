@@ -1,5 +1,8 @@
 # DSA
 
+## Array
+- Kandane Algo
+
 ## Recursion
 - Fibo and factorial
 
