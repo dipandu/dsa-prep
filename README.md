@@ -1,5 +1,5 @@
-## DSA
+# DSA
 
-# Sorting
+## Sorting
 - Bubble Sort
 - Selection Sort
